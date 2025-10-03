@@ -42,7 +42,7 @@
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=api&logoColor=white)
 ![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)<br>
-Веб-приложение для управления торговой сетью электроники на Django с использованием Django REST Framework (DRF) для создания API и админ-панели с реляционной базой данных.
+Веб-приложение для управления торговой сетью электроники на Django с использованием Django REST Framework (DRF) для создания API и админ-панели с реляционной базой данных.<br>
 [![](https://img.shields.io/badge/-🧬%20Django%20Habit%20Tracker-000)](https://github.com/Vitaly-Shcheglov/Django-Habit-Tracker/tree/develop)<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -56,7 +56,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=python&logoColor=white)
 ![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)<br>
-Веб-приложение для отслеживания привычек пользователей на Django с использованием Django REST Framework (DRF) для API, Celery для отложенных задач и интеграции с Telegram для отправки уведомлений.
+Веб-приложение для отслеживания привычек пользователей на Django с использованием Django REST Framework (DRF) для API, Celery для отложенных задач и интеграции с Telegram для отправки уведомлений.<br>
 [![](https://img.shields.io/badge/-📚%20Django%20LMS%20Project-000)](https://github.com/Vitaly-Shcheglov/Django-LMS-project/tree/develop)<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -67,7 +67,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=python&logoColor=white)
 ![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)<br>
-Бэкенд-сервер с использованием Django и Django REST Framework (DRF) для возврата JSON-структур клиенту.
+Бэкенд-сервер с использованием Django и Django REST Framework (DRF) для возврата JSON-структур клиенту.<br>
 
 
 
