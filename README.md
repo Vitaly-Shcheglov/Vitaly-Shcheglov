@@ -61,7 +61,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=python&logoColor=white)
 ![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)<br>
-Веб-приложение, созданное для отслеживания привычек пользователей.
+Веб-приложение для отслеживания привычек пользователей на Django с использованием Django REST Framework (DRF) для API, Celery для отложенных задач и интеграции с Telegram для отправки уведомлений.
 
 [![](https://img.shields.io/badge/-📚%20Django%20LMS%20Project-000)](https://github.com/Vitaly-Shcheglov/Django-LMS-project/tree/develop)<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
