@@ -79,6 +79,15 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)<br>
 Веб-приложение электронной коммерции на Django 5.2 с использованием Python 3.12, PostgreSQL, Bootstrap 4 и Redis для управления товарами, аутентификации пользователей и интеграции блога, обеспечивающее мощный функционал интернет-магазина и кэширование данных для высокой производительности.<br>
+[![](https://img.shields.io/badge/-🔍%20Job%20Search%20with%20DB%20Connection-000)](https://github.com/Vitaly-Shcheglov/Job-search-with-DB-connection/tree/develop)<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=api&logoColor=white)
+![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)<br>
+Веб-приложение для извлечения данных о работодателях и вакансиях с API hh.ru, реализованное на Python с использованием библиотеки requests для взаимодействия с API, PostgreSQL для хранения данных с применением SQL-запросов и JOIN, а также модульной структуры проекта и фильтрации данных для эффективного управления информацией.<br>
+
 
 
 
