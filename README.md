@@ -39,6 +39,24 @@
 [![](https://img.shields.io/badge/-🧬%20Platform%20for%20Publishing%20Paid%20Content-000)](https://github.com/Vitaly-Shcheglov/Platform-for-publishing-paid-content)
 Этот проект — веб-платформа на Django для публикации бесплатных и платных записей. Бесплатные записи доступны без регистрации, платные — только авторизованным пользователям с оплаченной подпиской. Регистрация по номеру телефона, оплата через Stripe. Фронтенд основан на Bootstrap-шаблонах для адаптивного интерфейса. Приложение упаковано в Docker и использует PostgreSQL. API защищены JWT, все сервисы документированы и тестированы.
 
+### Other Projects
+
+[![](https://img.shields.io/badge/-🧬%20Django%20Habit%20Tracker-000)](https://github.com/Vitaly-Shcheglov/Django-Habit-Tracker/tree/develop)
+Этот проект — веб-приложение, созданное для отслеживания привычек пользователей. Приложение позволяет пользователям создавать, редактировать и удалять привычки, а также получать уведомления о выполнении привычек. Проект реализован на Django с использованием Django REST Framework для создания API.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-00BFFF?style=flat-square&logo=gitlab&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-FF4B30?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=api&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=python&logoColor=white)
+![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+
+
 <a href="https://github.com/Vitaly-Shcheglov">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Vitaly-Shcheglov&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaly-Shcheglov&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
