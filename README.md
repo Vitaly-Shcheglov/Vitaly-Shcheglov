@@ -34,6 +34,10 @@
 ![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/Vitaly-Shcheglov/Platform-for-publishing-paid-content)
+
 
 <a href="https://github.com/Vitaly-Shcheglov">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Vitaly-Shcheglov&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
