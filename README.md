@@ -1,14 +1,10 @@
-# Привет! 👋
-
 Меня зовут Виталий Щеглов, я разработчик Python, специализирующийся на проектировании API и масштабируемом бэкенде.<br>
 В своей работе я использую современные фреймворки и базы данных.
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Technologies
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -35,12 +31,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 
 ### Full Stack Projects
-
 [![](https://img.shields.io/badge/-🧬%20Platform%20for%20Publishing%20Paid%20Content-000)](https://github.com/Vitaly-Shcheglov/Platform-for-publishing-paid-content)<br>
 Веб-платформа на Django для публикации бесплатных и платных записей. 
 
 ### Other Projects
-
 [![](https://img.shields.io/badge/-🛒%20Electronics%20Retail%20Chain%20Model-000)](https://github.com/Vitaly-Shcheglov/Electronics-retail-chain-model/tree/develop)<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
