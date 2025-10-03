@@ -23,6 +23,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-3EAAAF?style=flat-square&logo=oauth&logoColor=white)
 ![API](https://img.shields.io/badge/API-000000?style=flat-square&logo=api&logoColor=white)
+![JSON API](https://img.shields.io/badge/JSON_API-000000?style=flat-square&logo=json&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-FF4B30?style=flat-square&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
