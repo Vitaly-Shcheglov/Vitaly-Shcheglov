@@ -53,8 +53,10 @@
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=api&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=python&logoColor=white)
 ![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-Веб-приложение, созданное для отслеживания привычек пользователей. Приложение позволяет пользователям создавать, редактировать и удалять привычки, а также получать уведомления о выполнении привычек. Проект реализован на Django с использованием Django REST Framework для создания API.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)<br>
+Веб-приложение, созданное для отслеживания привычек пользователей.
+
+
 
 
 
