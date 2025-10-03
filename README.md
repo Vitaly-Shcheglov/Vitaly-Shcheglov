@@ -68,6 +68,18 @@
 ![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)<br>
 Бэкенд-сервер с использованием Django и Django REST Framework (DRF) для возврата JSON-структур клиенту.<br>
+[![](https://img.shields.io/badge/-🛒%20Django%20E--commerce-000)](https://github.com/Vitaly-Shcheglov/Django-e-commerce/tree/develop)<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![API](https://img.shields.io/badge/API-000000?style=flat-square&logo=api&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-FF4B30?style=flat-square&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)<br>
+Веб-приложение электронной коммерции на Django 5.2 с использованием Python 3.12, PostgreSQL, Bootstrap 4 и Redis для управления товарами, аутентификации пользователей и интеграции блога, обеспечивающее мощный функционал интернет-магазина и кэширование данных для высокой производительности.<br>
+
 
 
 
