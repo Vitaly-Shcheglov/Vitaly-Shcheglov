@@ -46,7 +46,7 @@
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=api&logoColor=white)
 ![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)<br>
-Веб-приложение для управления онлайн платформой торговой сети электроники.
+Веб-приложение для управления торговой сетью электроники на Django с использованием Django REST Framework (DRF) для создания API и админ-панели с реляционной базой данных.
 
 [![](https://img.shields.io/badge/-🧬%20Django%20Habit%20Tracker-000)](https://github.com/Vitaly-Shcheglov/Django-Habit-Tracker/tree/develop)<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
