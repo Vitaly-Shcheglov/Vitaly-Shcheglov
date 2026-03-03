@@ -27,6 +27,9 @@
 ![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=python&logoColor=white)
 ![ООП](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+### Pet project
+[![](https://img.shields.io/badge/-🧬%20Platform%20for%20Publishing%20Paid%20Content-000)](https://github.com/Vitaly-Shcheglov/Universal-scrapy-platform)<br>
+Универсальный парсер товаров для извлечения данных о продуктах с различных интернет-магазинов и маркетплейсов.Гибкий и масштабируемый инструмент для автоматического сбора информации о товарах: цены, описания, характеристики, изображения и отзывы. Возможности: парсинг популярных маркетплейсов; экспорт в JSON, CSV, Excel; поиск по категориям и фильтрам; мониторинг изменения цен; асинхронная обработка запросов; легкая настройка под новые сайты. Поддерживаемые платформы: Amazon, eBay, AliExpress, Wildberries, Ozon и другие (легко расширяется).
 ### Full Stack Projects
 [![](https://img.shields.io/badge/-🧬%20Platform%20for%20Publishing%20Paid%20Content-000)](https://github.com/Vitaly-Shcheglov/Platform-for-publishing-paid-content)<br>
 Веб-платформа на Django с полной поддержкой Django Templates для создания страниц регистрации, логина, профиля и платежей, включая интеграцию с Stripe для обработки платежей, а также реализацию форм для обработки данных пользователей, где шаблоны и формы гармонично сочетаются с переиспользуемыми компонентами (extends, блоки, включения), обеспечивая высокую модульность и удобство в разработке. 
@@ -99,4 +102,3 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Vitaly-Shcheglov&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaly-Shcheglov&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
-
